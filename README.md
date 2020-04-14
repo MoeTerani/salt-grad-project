@@ -2,6 +2,12 @@
 
 A dashboard for connected merchants to get an overview of their Way order flow.
 
+This was my final graudation project at `</salt>` together with our client [Way](https://www.wayretail.co/) and my team:
+
+* [Oskar Näsman](https://github.com/onasman)
+* [Ivar Särner](https://github.com/ivarsarner)
+* [Isabelle Caspersson](https://github.com/Isabelle-123)
+
 [![](https://img.shields.io/badge/%F0%9F%94%A5-View%20on%20Firebase-orange)](https://way-merchant-dashboard.web.app/)
 
 ## 👨‍💻 Tech stack
