@@ -2,7 +2,7 @@
 
 A dashboard for connected merchants to get an overview of their Way order flow.
 
-This was my final graudation project at `</salt>` together with our client [Way](https://www.wayretail.co/) and my team:
+This was my final graduation project at `</salt>` together with our client [Way](https://www.wayretail.co/) and my team:
 
 * [Oskar Näsman](https://github.com/onasman)
 * [Ivar Särner](https://github.com/ivarsarner)
