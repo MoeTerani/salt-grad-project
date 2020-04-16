@@ -30,11 +30,11 @@ _Way Popup Store_
 - test@way.com
 - password
 
-## 🔥 Firebase
+## 🔥 Getting started
 
-If this is your first time running the dashboard, start by running `npm run new-install` . You will also need to install the Firebase CLI and login: `npm install -g firebase-tools`
+If this is your first time running the dashboard, start by running `npm run new-install` . You will also need to install the Firebase CLI (`npm install -g firebase-tools`) and then login with `firebase login`.
 
-You will need to create a `.env` file to connect to the database. This needs to be saved at `client/.env`:
+Finally, create a `.env` file to connect to the database. This needs to be saved at `client/.env`:
 
 ```
 REACT_APP_API_KEY=XXXXXX
